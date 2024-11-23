@@ -37,7 +37,7 @@ const Register = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-r from-green-100 to-green-700 flex flex-col items-center justify-center px-4 py-12">
+    <div className="min-h-screen bg-gradient-to-r from-green-100 to-green-50 flex flex-col items-center justify-center px-4 py-12">
       {/* Title Section */}
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold text-gray-800 mb-4">Signup</h1>
