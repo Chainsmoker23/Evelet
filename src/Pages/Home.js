@@ -18,7 +18,7 @@ const Home = () => {
     return (
         <>
             <div
-                className="relative h-screen w-full bg-cover bg-center rounded-br-[150px] max-w-full"
+                className="relative h-screen w-full bg-cover bg-center max-w-full"
                 style={{ backgroundImage: `url(${backgroundImage})` }}
             >
                 {/* Hero Content */}
